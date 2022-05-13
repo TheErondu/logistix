@@ -1,0 +1,447 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><!-- Meta, title, CSS, favicons, etc. -->
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" href="images/favicon.ico" type="image/ico">
+  <title>Cargo Owner Dashboard |</title><!-- Bootstrap -->
+  <link href="../vendors/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet"><!-- Font Awesome -->
+  <link href="../vendors/font-awesome/css/font-awesome.min.css" rel="stylesheet"><!-- NProgress -->
+  <link href="../vendors/nprogress/nprogress.css" rel="stylesheet"><!-- iCheck -->
+  <link href="../vendors/iCheck/skins/flat/green.css" rel="stylesheet"><!-- bootstrap-progressbar -->
+  <link href="../vendors/bootstrap-progressbar/css/bootstrap-progressbar-3.3.4.min.css" rel="stylesheet"><!-- JQVMap -->
+  <link href="../vendors/jqvmap/dist/jqvmap.min.css" rel="stylesheet"><!-- bootstrap-daterangepicker -->
+  <link href="../vendors/bootstrap-daterangepicker/daterangepicker.css" rel="stylesheet"><!-- Custom Theme Style -->
+  <link href="../build/css/custom.min.css" rel="stylesheet">
+  <!-- PNotify -->
+    <link href="../vendors/pnotify/dist/pnotify.css" rel="stylesheet">
+    <link href="../vendors/pnotify/dist/pnotify.buttons.css" rel="stylesheet">
+
+</head>
+<body class="nav-md">
+  <div class="container body">
+    <div class="main_container">
+      <div class="col-md-3 left_col">
+        <div class="left_col scroll-view">
+          <div class="navbar nav_title" style="border: 0;">
+            <a href="/index.html" class="site_title"><img src="../../img/logo-dark.png" width="170" height="34" alt="logo"> <span>Dashboard</span></a>
+          </div>
+          <div class="clearfix"></div><!-- menu profile quick info -->
+          <div class="profile clearfix">
+            <div class="profile_pic"><img src="images/img.jpg" alt="..." class="img-circle profile_img"></div>
+            <div class="profile_info">
+              <span>Welcome,</span>
+              <h2>Erondu Emmanuel</h2>
+            </div>
+          </div><!-- /menu profile quick info -->
+          <br>
+          <!-- sidebar menu -->
+          <div id="sidebar-menu" class="main_menu_side hidden-print main_menu">
+            <div class="menu_section">
+              <h3>Business</h3>
+              <ul class="nav side-menu">
+                <li>
+                  <a><i class="fa fa-home"></i> Home <span class="fa fa-chevron-down"></span></a>
+                  <ul class="nav child_menu">
+                    <li>
+                      <a href="index.html">Dashboard</a>
+                    </li>
+                  </ul>
+                </li>
+                <li>
+                  <a><i class="fa fa-truck"></i> Trucks <span class="fa fa-chevron-down"></span></a>
+                  <ul class="nav child_menu">
+                    <li>
+                      <a href="request-truck.html">Request Trucks</a>
+                    </li>
+                    <li>
+                      <a href="Tracker.html">Track Consigment</a>
+                    </li>
+                  </ul>
+                </li>
+
+                <li>
+                  <a><i class="fa fa-building"></i> Warehouses <span class="fa fa-chevron-down"></span></a>
+                  <ul class="nav child_menu">
+                    <li>
+                      <a href="request-warehouse.html">Request Warehouse</a>
+                    </li>
+                    <li>
+                      <a href="tracker.html">Track Consigment</a>
+                    </li>
+                  </ul>
+                </li>
+
+              </ul>
+            </div>
+          </div><!-- /sidebar menu -->
+        </div>
+      </div><!-- top navigation -->
+      <div class="top_nav">
+        <div class="nav_menu">
+          <nav>
+            <div class="nav toggle">
+              <a id="menu_toggle"><i class="fa fa-bars"></i></a>
+            </div>
+            <ul class="nav navbar-nav navbar-right">
+              <li class="">
+                <a href="javascript:;" class="user-profile dropdown-toggle" data-toggle="dropdown" aria-expanded="false"><img src="images/img.jpg" alt="">John Doe <span class="fa fa-angle-down"></span></a>
+                <ul class="dropdown-menu dropdown-usermenu pull-right">
+                  <li>
+                    <a href="javascript:;">Profile</a>
+                  </li>
+                  <li>
+                    <a href="javascript:;"><span class="badge bg-red pull-right">50%</span> <span>Settings</span></a>
+                  </li>
+                  <li>
+                    <a href="javascript:;">Help</a>
+                  </li>
+                  <li>
+                    <a href="login.html"><i class="fa fa-sign-out pull-right"></i> Log Out</a>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </nav>
+        </div>
+      </div><!-- /top navigation -->
+      <!-- page content -->
+      <div class="right_col" role="main">
+        <!-- top tiles -->
+        <div class="row tile_count">
+          <div class="col-md-2 col-sm-4 col-xs-6 tile_stats_count">
+            <span class="count_top"><i class="fa fa-user"></i> Total Registered Trucks</span>
+            <div class="count">
+              30
+            </div><span class="count_bottom"><i class="green">4%</i> From last Week</span>
+          </div>
+          <div class="col-md-2 col-sm-4 col-xs-6 tile_stats_count">
+            <span class="count_top"><i class="fa fa-clock-o"></i> Total Truck Requests</span>
+            <div class="count">
+              12
+            </div><span class="count_bottom"><i class="green"><i class="fa fa-sort-asc"></i>3%</i> From last Week</span>
+          </div>
+          <div class="col-md-2 col-sm-4 col-xs-6 tile_stats_count">
+            <span class="count_top"><i class="fa fa-user"></i> Total Km Hauled</span>
+            <div class="count">
+              4,567
+            </div><span class="count_bottom"><i class="red"><i class="fa fa-sort-desc"></i>12%</i> From last Week</span>
+          </div>
+        </div>
+
+          <div class="clearfix"></div>
+
+              <div class="col-md-12 col-sm-12 col-xs-12">
+                <div class="x_panel">
+                  <div class="x_title">
+                    <h2>Truck Request </h2>
+                    <ul class="nav navbar-right panel_toolbox">
+                      <li><a class="collapse-link"><i class="fa fa-chevron-up"></i></a>
+                      </li>
+                      <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"><i class="fa fa-wrench"></i></a>
+                        <ul class="dropdown-menu" role="menu">
+                          <li><a href="#">Settings 1</a>
+                          </li>
+                          <li><a href="#">Settings 2</a>
+                          </li>
+                        </ul>
+                      </li>
+                      <li><a class="close-link"><i class="fa fa-close"></i></a>
+                      </li>
+                    </ul>
+                    <div class="clearfix"></div>
+                  </div>
+
+                  <div class="x_content">
+
+                    <p>You can check the current truck request</p>
+
+                    <div class="table-responsive">
+                      <table class="table table-striped jambo_table bulk_action">
+                        <thead>
+                          <tr class="headings">
+                            <th>
+                              <input type="checkbox" id="check-all" class="flat">
+                            </th>
+                            <th class="column-title">Order id </th>
+                            <th class="column-title">Pickup Locaction </th>
+                            <th class="column-title">Destination </th>
+                            <th class="column-title">Type of goods </th>
+                            <th class="column-title">Trucks size </th>
+                            <th class="column-title">Est. Departure time </th>
+                            <th class="column-title">Requested Date </th>
+                            <th class="column-title">Pickup status</th>
+                            <th class="column-title">Current Location</th>
+                            <th class="column-title">E.T.A </th>
+                            <th class="column-title">Fee </th>
+
+                            <th class="column-title no-link last"><span class="nobr">Action</span>
+                            </th>
+                            <th class="bulk-actions" colspan="7">
+                              <a class="antoo" style="color:#fff; font-weight:500;">Bulk Actions ( <span class="action-cnt"> </span> ) <i class="fa fa-chevron-down"></i></a>
+                            </th>
+                          </tr>
+                        </thead>
+
+                        <tbody>
+                          <tr class="odd pointer">
+                            <td class="a-center ">
+                              <input type="checkbox" class="flat" name="table_records">
+                            </td>
+                            <td class=" ">121000039</td>
+                            <td class=" ">25</td>
+                            <td class=" ">Owerri</td>
+                            <td class=" ">Unspecified</td>
+                            <td class=" ">20FT FLATBED</td>
+                            <td class=" ">19:00 10-04-2019<i class="success fa fa-long-arrow-up"></i>
+                            </td>
+                            <td class=" ">01-05-2019</td>
+                            <td class=" ">Pizza 1</td>
+                            <td class=" ">Gold-heaven</td>
+                            <td class=" ">In transit</td>
+                            <td class="a-right a-right ">$74,00.20</td>
+                            <td>
+                            <button class="btn btn-default source" onclick="new PNotify({
+                                  title: 'Awesome!',
+                                  text: 'Your Have successfully Accepted the Truck Request!',
+                                  type: 'success',
+                                  styling: 'bootstrap3'
+                              });">Accept </button>
+                            </td>
+                          </tr>
+                          <tr class="even pointer">
+                            <td class="a-center ">
+                              <input type="checkbox" class="flat" name="table_records">
+                            </td>
+                            <td class=" ">121230039</td>
+                            <td class=" ">25</td>
+                            <td class=" ">Owerri</td>
+                            <td class=" ">Unspecified</td>
+                            <td class=" ">Semi Detached</td>
+                            <td class=" ">12:00 25-03-2019<i class="success fa fa-long-arrow-up"></i>
+                            </td>
+                            <td class=" ">1-04-2019</td>
+                            <td class=" ">Nova 1</td>
+                            <td class=" ">Gold</td>
+                            <td class=" ">In transit</td>
+                            <td class="a-right a-right ">$690,000.20</td>
+                            <td>
+                            <button class="btn btn-default source" onclick="new PNotify({
+                                  title: 'Awesome!',
+                                  text: 'Your Have successfully Accepted the Truck Request!',
+                                  type: 'success',
+                                  styling: 'bootstrap3'
+                              });">Accept </button>
+                            </td>
+                          </tr>
+                          <tr class="odd pointer">
+                            <td class="a-center ">
+                              <input type="checkbox" class="flat" name="table_records">
+                            </td>
+                            <td class=" ">1210155039</td>
+                            <td class=" ">12</td>
+                            <td class=" ">Lagos</td>
+                            <td class=" ">Unspecified</td>
+                            <td class=" ">15 Ton Refrigerated</td>
+                            <td class=" ">17:00 3-04-2019<i class="success fa fa-long-arrow-up"></i>
+                            </td>
+                            <td class=" ">01-05-2019</td>
+                            <td class=" ">AJAH 1</td>
+                            <td class=" ">Mega Park</td>
+                            <td class=" ">In transit</td>
+                            <td class="a-right a-right ">$150,000.20</td>
+                            <td>
+                            <button class="btn btn-default source" onclick="new PNotify({
+                                  title: 'Awesome!',
+                                  text: 'Your Have successfully Accepted the Truck Request!',
+                                  type: 'success',
+                                  styling: 'bootstrap3'
+                              });">Accept </button>
+                            </td>
+                          </tr>
+                          </tr>
+                        </tbody>
+                      </table>
+                    </div>
+
+
+                  </div>
+                   <div class="x_title">
+                    <h2>Warehouse Request </h2>
+                    <ul class="nav navbar-right panel_toolbox">
+                      <li><a class="collapse-link"><i class="fa fa-chevron-up"></i></a>
+                      </li>
+                      <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"><i class="fa fa-wrench"></i></a>
+                        <ul class="dropdown-menu" role="menu">
+                          <li><a href="#">Settings 1</a>
+                          </li>
+                          <li><a href="#">Settings 2</a>
+                          </li>
+                        </ul>
+                      </li>
+                      <li><a class="close-link"><i class="fa fa-close"></i></a>
+                      </li>
+                    </ul>
+                    <div class="clearfix"></div>
+                  </div>
+                  <div class="x_content">
+
+                    <p>You can check the current warehouse requests</p>
+
+                    <div class="table-responsive">
+                      <table class="table table-striped jambo_table bulk_action">
+                        <thead>
+                          <tr class="headings">
+                            <th>
+                              <input type="checkbox" id="check-all" class="flat">
+                            </th>
+                            <th class="column-title">Order id </th>
+                            <th class="column-title">Locaction </th>
+                            <th class="column-title">Duration (days) </th>
+                            <th class="column-title">Type of goods </th>
+                            <th class="column-title">E.T.A </th>
+                            <th class="column-title">Customer Name</th>
+
+                            <th class="column-title no-link last"><span class="nobr">Action</span>
+                            </th>
+                            <th class="bulk-actions" colspan="7">
+                              <a class="antoo" style="color:#fff; font-weight:500;">Bulk Actions ( <span class="action-cnt"> </span> ) <i class="fa fa-chevron-down"></i></a>
+                            </th>
+                          </tr>
+                        </thead>
+
+                        <tbody>
+                          <tr class="odd pointer">
+                            <td class="a-center ">
+                              <input type="checkbox" class="flat" name="table_records">
+                            </td>
+                            <td class=" ">121000039</td>
+                            <td class=" ">Owerri</td>
+                            <td class=" ">7</td>
+                            <td class=" ">Crates</td>
+                            <td class=" ">3 Days</td>
+                            <td class="a-right a-right ">Tolu</td>
+                            <td>
+                            <button class="btn btn-default source" onclick="new PNotify({
+                                  title: 'Awesome!',
+                                  text: 'Your Have successfully Accepted the Warehouse Request!',
+                                  type: 'success',
+                                  styling: 'bootstrap3'
+                              });">Accept </button>
+                            </td>
+                          </tr>
+                          <tr class="even pointer">
+                            <td class="a-center ">
+                              <input type="checkbox" class="flat" name="table_records">
+                            </td>
+                            <td class=" ">121230039</td>
+                            <td class=" ">Owerri</td>
+                            <td class=" ">6</td>
+                            <td class=" ">Liquid tanked</td>
+                            <td class=" ">14 days</td>
+                            <td class="a-right a-right ">Nduka</td>
+                            <td>
+                            <button class="btn btn-default source" onclick="new PNotify({
+                                  title: 'Awesome!',
+                                  text: 'Your Have successfully Accepted the Truck Request!',
+                                  type: 'success',
+                                  styling: 'bootstrap3'
+                              });">Accept </button>
+                            </td>
+                          </tr>
+                          <tr class="odd pointer">
+                            <td class="a-center ">
+                              <input type="checkbox" class="flat" name="table_records">
+                            </td>
+                            <td class=" ">1210155039</td>
+                            <td class=" ">Lagos</td>
+                            <td class=" ">9</td>
+                            <td class=" ">15 Ton Refrigerated</td>
+                            <td class=" ">5 Days</td>
+                            <td class="a-right a-right ">David</td>
+                            <td>
+                            <button class="btn btn-default source" onclick="new PNotify({
+                                  title: 'Awesome!',
+                                  text: 'Your Have successfully Accepted the Truck Request!',
+                                  type: 'success',
+                                  styling: 'bootstrap3'
+                              });">Accept </button>
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                    </div>
+
+
+                  </div>
+                </div>
+              </div>
+
+
+          <!-- start of weather widget -->
+
+          <!-- end of weather widget -->
+        </div>
+
+      </div>
+
+
+
+    </div><!-- /page content -->
+    <!-- footer content -->
+    <footer>
+      <div class="pull-right">
+        <a href="https://logistix.ng">&copy;2019 Logistix. All rights reserved.  </a>
+      </div>
+      <div class="clearfix"></div>
+    </footer><!-- /footer content -->
+    <!-- jQuery -->
+    <script src="../vendors/jquery/dist/jquery.min.js"></script> <!-- Bootstrap -->
+
+    <script src="../vendors/bootstrap/dist/js/bootstrap.min.js"></script> <!-- FastClick -->
+
+    <script src="../vendors/fastclick/lib/fastclick.js"></script> <!-- NProgress -->
+
+    <script src="../vendors/nprogress/nprogress.js"></script> <!-- Chart.js -->
+
+    <script src="../vendors/Chart.js/dist/Chart.min.js"></script> <!-- gauge.js -->
+
+    <script src="../vendors/gauge.js/dist/gauge.min.js"></script> <!-- bootstrap-progressbar -->
+
+    <script src="../vendors/bootstrap-progressbar/bootstrap-progressbar.min.js"></script> <!-- iCheck -->
+
+    <script src="../vendors/iCheck/icheck.min.js"></script> <!-- Skycons -->
+
+    <script src="../vendors/skycons/skycons.js"></script> <!-- Flot -->
+
+    <script src="../vendors/Flot/jquery.flot.js"></script>
+    <script src="../vendors/Flot/jquery.flot.pie.js"></script>
+    <script src="../vendors/Flot/jquery.flot.time.js"></script>
+    <script src="../vendors/Flot/jquery.flot.stack.js"></script>
+    <script src="../vendors/Flot/jquery.flot.resize.js"></script> <!-- Flot plugins -->
+
+    <script src="../vendors/flot.orderbars/js/jquery.flot.orderBars.js"></script>
+    <script src="../vendors/flot-spline/js/jquery.flot.spline.min.js"></script>
+    <script src="../vendors/flot.curvedlines/curvedLines.js"></script> <!-- DateJS -->
+
+    <script src="../vendors/DateJS/build/date.js"></script> <!-- JQVMap -->
+
+    <script src="../vendors/jqvmap/dist/jquery.vmap.js"></script>
+    <script src="../vendors/jqvmap/dist/maps/jquery.vmap.world.js"></script>
+    <script src="../vendors/jqvmap/examples/js/jquery.vmap.sampledata.js"></script> <!-- bootstrap-daterangepicker -->
+
+    <script src="../vendors/moment/min/moment.min.js"></script>
+    <script src="../vendors/bootstrap-daterangepicker/daterangepicker.js"></script> <!-- Custom Theme Scripts -->
+
+    <script src="../build/js/custom.min.js"></script>
+     <!-- PNotify -->
+    <script src="../vendors/pnotify/dist/pnotify.js"></script>
+    <script src="../vendors/pnotify/dist/pnotify.buttons.js"></script>
+
+  </div>
+</body>
+</html>

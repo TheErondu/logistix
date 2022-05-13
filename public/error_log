@@ -1,0 +1,213 @@
+[12-Jun-2019 09:52:34 UTC] PHP Warning:  require(/home/logistix/public_html/public/../core/vendor/autoload.php): failed to open stream: No such file or directory in /home/logistix/public_html/public/index.php on line 24
+[12-Jun-2019 09:52:34 UTC] PHP Fatal error:  require(): Failed opening required '/home/logistix/public_html/public/../core/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/logistix/public_html/public/index.php on line 24
+[12-Jun-2019 09:52:34 UTC] PHP Warning:  require(/home/logistix/public_html/public/../core/vendor/autoload.php): failed to open stream: No such file or directory in /home/logistix/public_html/public/index.php on line 24
+[12-Jun-2019 09:52:34 UTC] PHP Fatal error:  require(): Failed opening required '/home/logistix/public_html/public/../core/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/logistix/public_html/public/index.php on line 24
+[12-Jun-2019 09:52:34 UTC] PHP Warning:  require(/home/logistix/public_html/public/../core/vendor/autoload.php): failed to open stream: No such file or directory in /home/logistix/public_html/public/index.php on line 24
+[12-Jun-2019 09:52:34 UTC] PHP Fatal error:  require(): Failed opening required '/home/logistix/public_html/public/../core/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/logistix/public_html/public/index.php on line 24
+[12-Jun-2019 09:52:34 UTC] PHP Warning:  require(/home/logistix/public_html/public/../core/vendor/autoload.php): failed to open stream: No such file or directory in /home/logistix/public_html/public/index.php on line 24
+[12-Jun-2019 09:52:34 UTC] PHP Fatal error:  require(): Failed opening required '/home/logistix/public_html/public/../core/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/logistix/public_html/public/index.php on line 24
+[12-Jun-2019 09:52:34 UTC] PHP Warning:  require(/home/logistix/public_html/public/../core/vendor/autoload.php): failed to open stream: No such file or directory in /home/logistix/public_html/public/index.php on line 24
+[12-Jun-2019 09:52:34 UTC] PHP Warning:  require(/home/logistix/public_html/public/../core/vendor/autoload.php): failed to open stream: No such file or directory in /home/logistix/public_html/public/index.php on line 24
+[12-Jun-2019 09:52:34 UTC] PHP Fatal error:  require(): Failed opening required '/home/logistix/public_html/public/../core/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/logistix/public_html/public/index.php on line 24
+[12-Jun-2019 09:52:34 UTC] PHP Fatal error:  require(): Failed opening required '/home/logistix/public_html/public/../core/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/logistix/public_html/public/index.php on line 24
+[12-Jun-2019 09:52:35 UTC] PHP Warning:  require(/home/logistix/public_html/public/../core/vendor/autoload.php): failed to open stream: No such file or directory in /home/logistix/public_html/public/index.php on line 24
+[12-Jun-2019 09:52:35 UTC] PHP Fatal error:  require(): Failed opening required '/home/logistix/public_html/public/../core/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/logistix/public_html/public/index.php on line 24
+[12-Jun-2019 09:52:35 UTC] PHP Warning:  require(/home/logistix/public_html/public/../core/vendor/autoload.php): failed to open stream: No such file or directory in /home/logistix/public_html/public/index.php on line 24
+[12-Jun-2019 09:52:35 UTC] PHP Fatal error:  require(): Failed opening required '/home/logistix/public_html/public/../core/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/logistix/public_html/public/index.php on line 24
+[12-Jun-2019 09:52:35 UTC] PHP Warning:  require(/home/logistix/public_html/public/../core/vendor/autoload.php): failed to open stream: No such file or directory in /home/logistix/public_html/public/index.php on line 24
+[12-Jun-2019 09:52:35 UTC] PHP Fatal error:  require(): Failed opening required '/home/logistix/public_html/public/../core/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/logistix/public_html/public/index.php on line 24
+[12-Jun-2019 09:52:35 UTC] PHP Warning:  require(/home/logistix/public_html/public/../core/vendor/autoload.php): failed to open stream: No such file or directory in /home/logistix/public_html/public/index.php on line 24
+[12-Jun-2019 09:52:35 UTC] PHP Fatal error:  require(): Failed opening required '/home/logistix/public_html/public/../core/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/logistix/public_html/public/index.php on line 24
+[12-Jun-2019 09:52:35 UTC] PHP Warning:  require(/home/logistix/public_html/public/../core/vendor/autoload.php): failed to open stream: No such file or directory in /home/logistix/public_html/public/index.php on line 24
+[12-Jun-2019 09:52:35 UTC] PHP Fatal error:  require(): Failed opening required '/home/logistix/public_html/public/../core/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/logistix/public_html/public/index.php on line 24
+[12-Jun-2019 09:52:35 UTC] PHP Warning:  require(/home/logistix/public_html/public/../core/vendor/autoload.php): failed to open stream: No such file or directory in /home/logistix/public_html/public/index.php on line 24
+[12-Jun-2019 09:52:35 UTC] PHP Fatal error:  require(): Failed opening required '/home/logistix/public_html/public/../core/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/logistix/public_html/public/index.php on line 24
+[12-Jun-2019 09:52:36 UTC] PHP Warning:  require(/home/logistix/public_html/public/../core/vendor/autoload.php): failed to open stream: No such file or directory in /home/logistix/public_html/public/index.php on line 24
+[12-Jun-2019 09:52:36 UTC] PHP Fatal error:  require(): Failed opening required '/home/logistix/public_html/public/../core/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/logistix/public_html/public/index.php on line 24
+[12-Jun-2019 09:52:36 UTC] PHP Warning:  require(/home/logistix/public_html/public/../core/vendor/autoload.php): failed to open stream: No such file or directory in /home/logistix/public_html/public/index.php on line 24
+[12-Jun-2019 09:52:36 UTC] PHP Fatal error:  require(): Failed opening required '/home/logistix/public_html/public/../core/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/logistix/public_html/public/index.php on line 24
+[12-Jun-2019 09:52:36 UTC] PHP Warning:  require(/home/logistix/public_html/public/../core/vendor/autoload.php): failed to open stream: No such file or directory in /home/logistix/public_html/public/index.php on line 24
+[12-Jun-2019 09:52:36 UTC] PHP Fatal error:  require(): Failed opening required '/home/logistix/public_html/public/../core/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/logistix/public_html/public/index.php on line 24
+[12-Jun-2019 09:52:36 UTC] PHP Warning:  require(/home/logistix/public_html/public/../core/vendor/autoload.php): failed to open stream: No such file or directory in /home/logistix/public_html/public/index.php on line 24
+[12-Jun-2019 09:52:36 UTC] PHP Fatal error:  require(): Failed opening required '/home/logistix/public_html/public/../core/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/logistix/public_html/public/index.php on line 24
+[12-Jun-2019 09:52:36 UTC] PHP Warning:  require(/home/logistix/public_html/public/../core/vendor/autoload.php): failed to open stream: No such file or directory in /home/logistix/public_html/public/index.php on line 24
+[12-Jun-2019 09:52:36 UTC] PHP Fatal error:  require(): Failed opening required '/home/logistix/public_html/public/../core/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/logistix/public_html/public/index.php on line 24
+[12-Jun-2019 09:52:36 UTC] PHP Warning:  require(/home/logistix/public_html/public/../core/vendor/autoload.php): failed to open stream: No such file or directory in /home/logistix/public_html/public/index.php on line 24
+[12-Jun-2019 09:52:36 UTC] PHP Fatal error:  require(): Failed opening required '/home/logistix/public_html/public/../core/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/logistix/public_html/public/index.php on line 24
+[12-Jun-2019 09:52:36 UTC] PHP Warning:  require(/home/logistix/public_html/public/../core/vendor/autoload.php): failed to open stream: No such file or directory in /home/logistix/public_html/public/index.php on line 24
+[12-Jun-2019 09:52:36 UTC] PHP Fatal error:  require(): Failed opening required '/home/logistix/public_html/public/../core/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/logistix/public_html/public/index.php on line 24
+[12-Jun-2019 09:52:36 UTC] PHP Warning:  require(/home/logistix/public_html/public/../core/vendor/autoload.php): failed to open stream: No such file or directory in /home/logistix/public_html/public/index.php on line 24
+[12-Jun-2019 09:52:36 UTC] PHP Fatal error:  require(): Failed opening required '/home/logistix/public_html/public/../core/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/logistix/public_html/public/index.php on line 24
+[12-Jun-2019 09:52:36 UTC] PHP Warning:  require(/home/logistix/public_html/public/../core/vendor/autoload.php): failed to open stream: No such file or directory in /home/logistix/public_html/public/index.php on line 24
+[12-Jun-2019 09:52:36 UTC] PHP Fatal error:  require(): Failed opening required '/home/logistix/public_html/public/../core/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/logistix/public_html/public/index.php on line 24
+[12-Jun-2019 09:52:36 UTC] PHP Warning:  require(/home/logistix/public_html/public/../core/vendor/autoload.php): failed to open stream: No such file or directory in /home/logistix/public_html/public/index.php on line 24
+[12-Jun-2019 09:52:36 UTC] PHP Fatal error:  require(): Failed opening required '/home/logistix/public_html/public/../core/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/logistix/public_html/public/index.php on line 24
+[31-Oct-2019 21:14:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=127....', 'logistix_defaul...', 'z4jy7v-6]FuJ', Array)
+#1 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=127....', 'logistix_defaul...', 'z4jy7v-6]FuJ', Array)
+#2 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=127....', Array, Array)
+#3 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal function]: Illuminate\Database\Connectors in /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 664
+[31-Oct-2019 21:14:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=127....', 'logistix_defaul...', 'z4jy7v-6]FuJ', Array)
+#1 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=127....', 'logistix_defaul...', 'z4jy7v-6]FuJ', Array)
+#2 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=127....', Array, Array)
+#3 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal function]: Illuminate\Database\Connectors in /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 664
+[31-Oct-2019 21:14:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=127....', 'logistix_defaul...', 'z4jy7v-6]FuJ', Array)
+#1 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=127....', 'logistix_defaul...', 'z4jy7v-6]FuJ', Array)
+#2 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=127....', Array, Array)
+#3 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal function]: Illuminate\Database\Connectors in /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 664
+[31-Oct-2019 21:14:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=127....', 'logistix_defaul...', 'z4jy7v-6]FuJ', Array)
+#1 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=127....', 'logistix_defaul...', 'z4jy7v-6]FuJ', Array)
+#2 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=127....', Array, Array)
+#3 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal function]: Illuminate\Database\Connectors in /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 664
+[15-Jan-2020 11:47:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'logistix_default'@'localhost' (using password: YES) in /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=127....', 'logistix_defaul...', 'z4jy7v-6]FuJ', Array)
+#1 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=127....', 'logistix_defaul...', 'z4jy7v-6]FuJ', Array)
+#2 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=127....', Array, Array)
+#3 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Arra in /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 664
+[15-Jan-2020 11:47:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'logistix_default'@'localhost' (using password: YES) in /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=127....', 'logistix_defaul...', 'z4jy7v-6]FuJ', Array)
+#1 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=127....', 'logistix_defaul...', 'z4jy7v-6]FuJ', Array)
+#2 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=127....', Array, Array)
+#3 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Arra in /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 664
+[15-Jan-2020 11:47:45 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'logistix_default'@'localhost' (using password: YES) in /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=127....', 'logistix_defaul...', 'z4jy7v-6]FuJ', Array)
+#1 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=127....', 'logistix_defaul...', 'z4jy7v-6]FuJ', Array)
+#2 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=127....', Array, Array)
+#3 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Arra in /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 664
+[15-Jan-2020 11:47:45 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'logistix_default'@'localhost' (using password: YES) in /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=127....', 'logistix_defaul...', 'z4jy7v-6]FuJ', Array)
+#1 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=127....', 'logistix_defaul...', 'z4jy7v-6]FuJ', Array)
+#2 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=127....', Array, Array)
+#3 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Arra in /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 664
+[15-Jan-2020 11:47:45 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'logistix_default'@'localhost' (using password: YES) in /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=127....', 'logistix_defaul...', 'z4jy7v-6]FuJ', Array)
+#1 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=127....', 'logistix_defaul...', 'z4jy7v-6]FuJ', Array)
+#2 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=127....', Array, Array)
+#3 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Arra in /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 664
+[15-Jan-2020 11:47:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'logistix_default'@'localhost' (using password: YES) in /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=127....', 'logistix_defaul...', 'z4jy7v-6]FuJ', Array)
+#1 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=127....', 'logistix_defaul...', 'z4jy7v-6]FuJ', Array)
+#2 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=127....', Array, Array)
+#3 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Arra in /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 664
+[15-Jan-2020 11:47:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'logistix_default'@'localhost' (using password: YES) in /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=127....', 'logistix_defaul...', 'z4jy7v-6]FuJ', Array)
+#1 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=127....', 'logistix_defaul...', 'z4jy7v-6]FuJ', Array)
+#2 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=127....', Array, Array)
+#3 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Arra in /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 664
+[15-Jan-2020 11:47:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'logistix_default'@'localhost' (using password: YES) in /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=127....', 'logistix_defaul...', 'z4jy7v-6]FuJ', Array)
+#1 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=127....', 'logistix_defaul...', 'z4jy7v-6]FuJ', Array)
+#2 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=127....', Array, Array)
+#3 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Arra in /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 664
+[15-Jan-2020 11:47:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'logistix_default'@'localhost' (using password: YES) in /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=127....', 'logistix_defaul...', 'z4jy7v-6]FuJ', Array)
+#1 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=127....', 'logistix_defaul...', 'z4jy7v-6]FuJ', Array)
+#2 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=127....', Array, Array)
+#3 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Arra in /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 664
+[15-Jan-2020 11:47:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'logistix_default'@'localhost' (using password: YES) in /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=127....', 'logistix_defaul...', 'z4jy7v-6]FuJ', Array)
+#1 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=127....', 'logistix_defaul...', 'z4jy7v-6]FuJ', Array)
+#2 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=127....', Array, Array)
+#3 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Arra in /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 664
+[15-Jan-2020 11:47:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'logistix_default'@'localhost' (using password: YES) in /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=127....', 'logistix_defaul...', 'z4jy7v-6]FuJ', Array)
+#1 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=127....', 'logistix_defaul...', 'z4jy7v-6]FuJ', Array)
+#2 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=127....', Array, Array)
+#3 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Arra in /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 664
+[15-Jan-2020 11:47:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'logistix_default'@'localhost' (using password: YES) in /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=127....', 'logistix_defaul...', 'z4jy7v-6]FuJ', Array)
+#1 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=127....', 'logistix_defaul...', 'z4jy7v-6]FuJ', Array)
+#2 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=127....', Array, Array)
+#3 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Arra in /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 664
+[15-Jan-2020 11:47:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'logistix_default'@'localhost' (using password: YES) in /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=127....', 'logistix_defaul...', 'z4jy7v-6]FuJ', Array)
+#1 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=127....', 'logistix_defaul...', 'z4jy7v-6]FuJ', Array)
+#2 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=127....', Array, Array)
+#3 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Arra in /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 664
+[15-Jan-2020 11:47:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'logistix_default'@'localhost' (using password: YES) in /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=127....', 'logistix_defaul...', 'z4jy7v-6]FuJ', Array)
+#1 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=127....', 'logistix_defaul...', 'z4jy7v-6]FuJ', Array)
+#2 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=127....', Array, Array)
+#3 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Arra in /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 664
+[15-Jan-2020 11:47:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'logistix_default'@'localhost' (using password: YES) in /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=127....', 'logistix_defaul...', 'z4jy7v-6]FuJ', Array)
+#1 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=127....', 'logistix_defaul...', 'z4jy7v-6]FuJ', Array)
+#2 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=127....', Array, Array)
+#3 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Arra in /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 664
+[15-Jan-2020 11:47:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'logistix_default'@'localhost' (using password: YES) in /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=127....', 'logistix_defaul...', 'z4jy7v-6]FuJ', Array)
+#1 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=127....', 'logistix_defaul...', 'z4jy7v-6]FuJ', Array)
+#2 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=127....', Array, Array)
+#3 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Arra in /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 664
+[15-Jan-2020 11:47:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'logistix_default'@'localhost' (using password: YES) in /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=127....', 'logistix_defaul...', 'z4jy7v-6]FuJ', Array)
+#1 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=127....', 'logistix_defaul...', 'z4jy7v-6]FuJ', Array)
+#2 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=127....', Array, Array)
+#3 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Arra in /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 664
+[15-Jan-2020 11:47:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'logistix_default'@'localhost' (using password: YES) in /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=127....', 'logistix_defaul...', 'z4jy7v-6]FuJ', Array)
+#1 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=127....', 'logistix_defaul...', 'z4jy7v-6]FuJ', Array)
+#2 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=127....', Array, Array)
+#3 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Arra in /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 664
+[15-Jan-2020 11:47:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'logistix_default'@'localhost' (using password: YES) in /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=127....', 'logistix_defaul...', 'z4jy7v-6]FuJ', Array)
+#1 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=127....', 'logistix_defaul...', 'z4jy7v-6]FuJ', Array)
+#2 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=127....', Array, Array)
+#3 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Arra in /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 664
+[15-Jan-2020 11:47:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'logistix_default'@'localhost' (using password: YES) in /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=127....', 'logistix_defaul...', 'z4jy7v-6]FuJ', Array)
+#1 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=127....', 'logistix_defaul...', 'z4jy7v-6]FuJ', Array)
+#2 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=127....', Array, Array)
+#3 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Arra in /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 664
+[12-May-2020 11:18:32 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=127....', 'logistix_defaul...', 'z4jy7v-6]FuJ', Array)
+#1 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=127....', 'logistix_defaul...', 'z4jy7v-6]FuJ', Array)
+#2 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=127....', Array, Array)
+#3 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal function]: Illuminate\Database\Connectors in /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 664
+[03-Jan-2021 20:13:07 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=127....', 'logistix_defaul...', 'z4jy7v-6]FuJ', Array)
+#1 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=127....', 'logistix_defaul...', 'z4jy7v-6]FuJ', Array)
+#2 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=127....', Array, Array)
+#3 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal function]: Illuminate\Database\Connectors in /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 664
+[03-Jan-2021 20:13:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=127....', 'logistix_defaul...', 'z4jy7v-6]FuJ', Array)
+#1 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=127....', 'logistix_defaul...', 'z4jy7v-6]FuJ', Array)
+#2 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=127....', Array, Array)
+#3 /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal function]: Illuminate\Database\Connectors in /home/logistix/core/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 664
